@@ -1,6 +1,6 @@
 <!-- # 💫 About Me: -->
 
-# 👋 Greetings! 
+# 👋🏻 Greetings! 
 
 I’m a **Data Engineer & Data Analyst** with **1+ year of experience**, specializing in **SQL, Python, and Machine Learning**. I work on **building scalable data pipelines, optimizing databases, and extracting insights** to drive business decisions.  
 
