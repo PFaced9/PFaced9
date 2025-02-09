@@ -1,6 +1,22 @@
 <!-- # 💫 About Me: -->
-🔭 I’m currently working on<br>Automating workflows and exploring data-driven solutions.<br><br>👯 I’m looking to collaborate on<br>Exciting projects in data, automation, and AI.<br><br>🤝 I’m looking for help with<br>Learning and growing in the MLOps space.<br><br>🌱 I’m currently learning <br>How to make machine learning models more efficient and scalable.<br><br>💬 Ask me about<br>Data, automation, and long-term investing.<br><br>⚡ Fun fact<br>I love optimizing everything—whether it’s data, workflows, or finances! 🚀
 
+# 👋 Greetings! 
+
+I’m a **Data Engineer & Data Analyst** with **1+ year of experience**, specializing in **SQL, Python, and Machine Learning**. I work on **building scalable data pipelines, optimizing databases, and extracting insights** to drive business decisions.  
+
+## 📊 Data Engineering & Data Analysis  
+- **Data Engineer** → I design **efficient data pipelines**, optimize databases, and ensure data is clean and accessible.  
+- **Data Analyst** → I use **SQL, Python, and BI tools** to extract insights and support decision-making.  
+- **Blended Role** → My experience spans **both fields**, allowing me to work on **end-to-end data solutions**.
+
+## 💡 Currently Exploring  
+I’m diving into **MLOps**, focusing on:  
+- **Automating machine learning workflows**  
+- **Model deployment & monitoring**  
+
+## 🚀 Passion & Collaboration  
+I’m passionate about **solving complex data challenges, automating workflows, and making machine learning models production-ready**.  
+Always open to **collaborations and learning new technologies!**  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PFaced9/PFaced9/output/github-snake-dark.svg" />
